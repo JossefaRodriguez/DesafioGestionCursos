@@ -60,6 +60,4 @@ async function eliminarCurso(id) {
     }
 }
 
-
-
 module.exports = { nuevoCurso, obtenerCursos, editarCurso, eliminarCurso }
